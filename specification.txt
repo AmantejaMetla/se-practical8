@@ -1,1 +1,2 @@
 "Initial specification - Version 1.0" 
+"Updated specification - Version 2.0" 

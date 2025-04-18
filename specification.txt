@@ -1,2 +1,3 @@
 "Initial specification - Version 1.0" 
 "Updated specification - Version 2.0" 
+"Minor updates for version 2.1" 
